@@ -1,0 +1,3583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StockSymbolInfo>
+  <SymbolInfo>
+    <Symbol>XXII</Symbol>
+    <Name>22nd Century Group, Inc</Name>
+    <LastSale>2.56</LastSale>
+    <MarketCap>$316.32M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Farming/Seeds/Milling</Industry>
+    <Summary>http://www.nasdaq.com/symbol/xxii</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FAX</Symbol>
+    <Name>Aberdeen Asia-Pacific Income Fund Inc</Name>
+    <LastSale>4.88</LastSale>
+    <MarketCap>$1.23B</MarketCap>
+    <IPOyear>1986</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/fax</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IAF</Symbol>
+    <Name>Aberdeen Australia Equity Fund Inc</Name>
+    <LastSale>6.48</LastSale>
+    <MarketCap>$147.37M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/iaf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CH</Symbol>
+    <Name>Aberdeen Chile Fund, Inc.</Name>
+    <LastSale>8.96</LastSale>
+    <MarketCap>$83.84M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ch</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ABE           </Symbol>
+    <Name>Aberdeen Emerging Markets Smaller Company Opportunities Fund I</Name>
+    <LastSale>14.27</LastSale>
+    <MarketCap>$135.35M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/abe</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FCO</Symbol>
+    <Name>Aberdeen Global Income Fund, Inc.</Name>
+    <LastSale>9.12</LastSale>
+    <MarketCap>$79.57M</MarketCap>
+    <IPOyear>1992</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/fco</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IF</Symbol>
+    <Name>Aberdeen Indonesia Fund, Inc.</Name>
+    <LastSale>7.5599</LastSale>
+    <MarketCap>$69.98M</MarketCap>
+    <IPOyear>1990</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/if</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ISL</Symbol>
+    <Name>Aberdeen Israel Fund, Inc.</Name>
+    <LastSale>20.24</LastSale>
+    <MarketCap>$79.86M</MarketCap>
+    <IPOyear>1992</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/isl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ACU</Symbol>
+    <Name>Acme United Corporation.</Name>
+    <LastSale>23.35</LastSale>
+    <MarketCap>$78.78M</MarketCap>
+    <IPOyear>1988</IPOyear>
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/acu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ATNM</Symbol>
+    <Name>Actinium Pharmaceuticals, Inc.</Name>
+    <LastSale>0.6545</LastSale>
+    <MarketCap>$52.38M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/atnm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AE</Symbol>
+    <Name>Adams Resources &amp; Energy, Inc.</Name>
+    <LastSale>46</LastSale>
+    <MarketCap>$194.01M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil Refining/Marketing</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ae</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ACY</Symbol>
+    <Name>AeroCentury Corp.</Name>
+    <LastSale>14.6</LastSale>
+    <MarketCap>$20.68M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Diversified Commercial Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/acy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AIRI</Symbol>
+    <Name>Air Industries Group</Name>
+    <LastSale>1.655</LastSale>
+    <MarketCap>$38.53M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Military/Government/Technical</Industry>
+    <Summary>http://www.nasdaq.com/symbol/airi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AXU</Symbol>
+    <Name>Alexco Resource Corp</Name>
+    <LastSale>1.54</LastSale>
+    <MarketCap>$155.92M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/axu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ALO</Symbol>
+    <Name>Alio Gold Inc.</Name>
+    <LastSale>3.47</LastSale>
+    <MarketCap>$155.04M</MarketCap>
+    <IPOyear>2011</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/alo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AAU</Symbol>
+    <Name>Almaden Minerals, Ltd.</Name>
+    <LastSale>0.99</LastSale>
+    <MarketCap>$100.32M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aau</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>APT</Symbol>
+    <Name>Alpha Pro Tech, Ltd.</Name>
+    <LastSale>4</LastSale>
+    <MarketCap>$60.62M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Industrial Specialties</Industry>
+    <Summary>http://www.nasdaq.com/symbol/apt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AAMC</Symbol>
+    <Name>Altisource Asset Management Corp</Name>
+    <LastSale>81.95</LastSale>
+    <MarketCap>$130.71M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Real Estate</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aamc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DIT</Symbol>
+    <Name>AMCON Distributing Company</Name>
+    <LastSale>90</LastSale>
+    <MarketCap>$62.16M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Food Distributors</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dit</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ALN</Symbol>
+    <Name>American Lorain Corporation</Name>
+    <LastSale>0.173</LastSale>
+    <MarketCap>$6.62M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Packaged Foods</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aln</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AMS</Symbol>
+    <Name>American Shared Hospital Services</Name>
+    <LastSale>2.5</LastSale>
+    <MarketCap>$14.28M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical Specialities</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ams</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>USAS</Symbol>
+    <Name>Americas Silver Corporation</Name>
+    <LastSale>3.7</LastSale>
+    <MarketCap>$153.54M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/usas</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AMPE</Symbol>
+    <Name>Ampio Pharmaceuticals, Inc.</Name>
+    <LastSale>2.85</LastSale>
+    <MarketCap>$216.43M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ampe</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>APHB</Symbol>
+    <Name>AmpliPhi Biosciences Corporation</Name>
+    <LastSale>0.98</LastSale>
+    <MarketCap>$9.31M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aphb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ARNC^</Symbol>
+    <Name>Arconic Inc.</Name>
+    <LastSale>89.55</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/arnc^</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AKG</Symbol>
+    <Name>Asanko Gold Inc.</Name>
+    <LastSale>0.6183</LastSale>
+    <MarketCap>$125.79M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Mining &amp; Quarrying of Nonmetallic Minerals (No Fuels)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/akg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AINC</Symbol>
+    <Name>Ashford Inc.</Name>
+    <LastSale>98.5</LastSale>
+    <MarketCap>$206.13M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Professional Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ainc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ASB.WS</Symbol>
+    <Name>Associated Banc-Corp</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/asb.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AST</Symbol>
+    <Name>Asterias Biotherapeutics, Inc.</Name>
+    <LastSale>2.15</LastSale>
+    <MarketCap>$116.42M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ast</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AUG</Symbol>
+    <Name>Auryn Resources Inc.</Name>
+    <LastSale>1.3399</LastSale>
+    <MarketCap>$105.18M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aug</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AWX</Symbol>
+    <Name>Avalon Holdings Corporation</Name>
+    <LastSale>2.06</LastSale>
+    <MarketCap>$7.83M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Environmental Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/awx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ASM</Symbol>
+    <Name>Avino Silver</Name>
+    <LastSale>1.32</LastSale>
+    <MarketCap>$69.59M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/asm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BTG</Symbol>
+    <Name>B2Gold Corp</Name>
+    <LastSale>2.88</LastSale>
+    <MarketCap>$2.82B</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/btg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BTN</Symbol>
+    <Name>Ballantyne Strong, Inc</Name>
+    <LastSale>4.55</LastSale>
+    <MarketCap>$65.59M</MarketCap>
+    <IPOyear />
+    <Sector>Miscellaneous</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/btn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BKJ</Symbol>
+    <Name>Bancorp of New Jersey, Inc</Name>
+    <LastSale>18</LastSale>
+    <MarketCap>$123.75M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bkj</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BCV</Symbol>
+    <Name>Bancroft Fund Limited</Name>
+    <LastSale>21.7759</LastSale>
+    <MarketCap>$114.32M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bcv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BCV^A</Symbol>
+    <Name>Bancroft Fund Limited</Name>
+    <LastSale>25.6316</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bcv^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BAA</Symbol>
+    <Name>BANRO CORPORATION</Name>
+    <LastSale>0.108</LastSale>
+    <MarketCap>$11.85M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/baa</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BHB</Symbol>
+    <Name>Bar Harbor Bankshares, Inc.</Name>
+    <LastSale>29.02</LastSale>
+    <MarketCap>$447.89M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bhb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BRN</Symbol>
+    <Name>Barnwell Industries, Inc.</Name>
+    <LastSale>2.02</LastSale>
+    <MarketCap>$16.72M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/brn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BGSF</Symbol>
+    <Name>BG Staffing Inc</Name>
+    <LastSale>15.79</LastSale>
+    <MarketCap>$138.31M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Professional Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bgsf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BPMX</Symbol>
+    <Name>BioPharmX Corporation</Name>
+    <LastSale>0.1034</LastSale>
+    <MarketCap>$13.18M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bpmx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BTX</Symbol>
+    <Name>BioTime, Inc.</Name>
+    <LastSale>2.29</LastSale>
+    <MarketCap>$290.52M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/btx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BTX.WS</Symbol>
+    <Name>BioTime, Inc.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/btx.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BGI</Symbol>
+    <Name>Birks Group Inc.</Name>
+    <LastSale>1.57</LastSale>
+    <MarketCap>$28.2M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Consumer Specialties</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bgi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BZM</Symbol>
+    <Name>BlackRock Maryland Municipal Bond Trust</Name>
+    <LastSale>13.5045</LastSale>
+    <MarketCap>$28.08M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bzm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MHE</Symbol>
+    <Name>BlackRock Massachusetts Tax-Exempt Trust</Name>
+    <LastSale>13.98</LastSale>
+    <MarketCap>$33.09M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mhe</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BLE</Symbol>
+    <Name>BlackRock Municipal Income Trust II</Name>
+    <LastSale>14.13</LastSale>
+    <MarketCap>$332.06M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ble</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BLJ</Symbol>
+    <Name>Blackrock New Jersey Municipal Bond Trust</Name>
+    <LastSale>14.53</LastSale>
+    <MarketCap>$33.82M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/blj</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BFY</Symbol>
+    <Name>BlackRock New York Municipal Income Trust II</Name>
+    <LastSale>14.63</LastSale>
+    <MarketCap>$73.22M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bfy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BHV</Symbol>
+    <Name>BlackRock Virginia Municipal Bond Trust</Name>
+    <LastSale>16.8179</LastSale>
+    <MarketCap>$26.92M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bhv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BDR</Symbol>
+    <Name>Blonder Tongue Laboratories, Inc.</Name>
+    <LastSale>0.5886</LastSale>
+    <MarketCap>$4.78M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Radio And Television Broadcasting And Communications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bdr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BRG</Symbol>
+    <Name>Bluerock Residential Growth REIT, Inc.</Name>
+    <LastSale>10.1</LastSale>
+    <MarketCap>$244.5M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/brg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BRG^A</Symbol>
+    <Name>Bluerock Residential Growth REIT, Inc.</Name>
+    <LastSale>26.5595</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/brg^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BRG^C</Symbol>
+    <Name>Bluerock Residential Growth REIT, Inc.</Name>
+    <LastSale>26.1145</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/brg^c</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BRG^D</Symbol>
+    <Name>Bluerock Residential Growth REIT, Inc.</Name>
+    <LastSale>25.2999</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/brg^d</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BVX</Symbol>
+    <Name>Bovie Medical Corporation</Name>
+    <LastSale>2.71</LastSale>
+    <MarketCap>$89.05M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bvx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BWL.A</Symbol>
+    <Name>Bowl America, Inc.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bwl.a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CMCL</Symbol>
+    <Name>Caledonia Mining Corporation Plc</Name>
+    <LastSale>6.86</LastSale>
+    <MarketCap>$72.61M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cmcl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CEI</Symbol>
+    <Name>Camber Energy, Inc.</Name>
+    <LastSale>0.1224</LastSale>
+    <MarketCap>$8.43M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cei</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CANF</Symbol>
+    <Name>Can-Fite Biopharma Ltd</Name>
+    <LastSale>1.5599</LastSale>
+    <MarketCap>$25.51M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/canf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ROX</Symbol>
+    <Name>Castle Brands, Inc.</Name>
+    <LastSale>1.32</LastSale>
+    <MarketCap>$216.88M</MarketCap>
+    <IPOyear>2006</IPOyear>
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Beverages (Production/Distribution)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rox</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CAW</Symbol>
+    <Name>CCA Industries, Inc.</Name>
+    <LastSale>3.1</LastSale>
+    <MarketCap>$21.72M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Package Goods/Cosmetics</Industry>
+    <Summary>http://www.nasdaq.com/symbol/caw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CVM</Symbol>
+    <Name>Cel-Sci Corporation</Name>
+    <LastSale>1.8601</LastSale>
+    <MarketCap>$18.75M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cvm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CVM.WS</Symbol>
+    <Name>Cel-Sci Corporation</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cvm.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CEF</Symbol>
+    <Name>Central Fund of Canada Limited</Name>
+    <LastSale>12.91</LastSale>
+    <MarketCap>$3.25B</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cef</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CET</Symbol>
+    <Name>Central Securities Corporation</Name>
+    <LastSale>27.35</LastSale>
+    <MarketCap>$678.58M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cet</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LEU</Symbol>
+    <Name>Centrus Energy Corp.</Name>
+    <LastSale>4.12</LastSale>
+    <MarketCap>$37.24M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Mining &amp; Quarrying of Nonmetallic Minerals (No Fuels)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/leu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CCF</Symbol>
+    <Name>Chase Corporation</Name>
+    <LastSale>122.2</LastSale>
+    <MarketCap>$1.14B</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Durables</Sector>
+    <Industry>Building Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ccf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CQH</Symbol>
+    <Name>Cheniere Energy Partners LP Holdings, LLC</Name>
+    <LastSale>26.91</LastSale>
+    <MarketCap>$6.24B</MarketCap>
+    <IPOyear>2013</IPOyear>
+    <Sector>Public Utilities</Sector>
+    <Industry>Oil/Gas Transmission</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cqh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CQP</Symbol>
+    <Name>Cheniere Energy Partners, LP</Name>
+    <LastSale>27.56</LastSale>
+    <MarketCap>$13.34B</MarketCap>
+    <IPOyear>2007</IPOyear>
+    <Sector>Public Utilities</Sector>
+    <Industry>Oil/Gas Transmission</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cqp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LNG</Symbol>
+    <Name>Cheniere Energy, Inc.</Name>
+    <LastSale>49.36</LastSale>
+    <MarketCap>$11.73B</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Oil/Gas Transmission</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lng</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CVR</Symbol>
+    <Name>Chicago Rivet &amp; Machine Co.</Name>
+    <LastSale>32.6127</LastSale>
+    <MarketCap>$31.51M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cvr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CPHI</Symbol>
+    <Name>China Pharma Holdings, Inc.</Name>
+    <LastSale>0.1888</LastSale>
+    <MarketCap>$8.23M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cphi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CISN.WS</Symbol>
+    <Name>Cision Ltd.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cisn.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CKX</Symbol>
+    <Name>CKX Lands, Inc.</Name>
+    <LastSale>9.85</LastSale>
+    <MarketCap>$19.13M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ckx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLV</Symbol>
+    <Name>Clough Global Dividend and Income Fund</Name>
+    <LastSale>13.3217</LastSale>
+    <MarketCap>$93.34M</MarketCap>
+    <IPOyear>2004</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLQ</Symbol>
+    <Name>Clough Global Equity Fund</Name>
+    <LastSale>13.26</LastSale>
+    <MarketCap>$146.2M</MarketCap>
+    <IPOyear>2005</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glq</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLO</Symbol>
+    <Name>Clough Global Opportunities Fund</Name>
+    <LastSale>10.765</LastSale>
+    <MarketCap>$346.9M</MarketCap>
+    <IPOyear>2006</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>COHN</Symbol>
+    <Name>Cohen &amp; Company Inc.</Name>
+    <LastSale>7.5608</LastSale>
+    <MarketCap>$9.52M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Investment Bankers/Brokers/Service</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cohn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MOC</Symbol>
+    <Name>Command Security Corporation</Name>
+    <LastSale>2.98</LastSale>
+    <MarketCap>$29.35M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Diversified Commercial Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/moc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CIX</Symbol>
+    <Name>CompX International Inc.</Name>
+    <LastSale>13.55</LastSale>
+    <MarketCap>$168.37M</MarketCap>
+    <IPOyear>1998</IPOyear>
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cix</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LODE</Symbol>
+    <Name>Comstock Mining, Inc.</Name>
+    <LastSale>0.2939</LastSale>
+    <MarketCap>$13.31M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lode</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CDOR</Symbol>
+    <Name>Condor Hospitality Trust, Inc.</Name>
+    <LastSale>10.1</LastSale>
+    <MarketCap>$117.96M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cdor</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CTO</Symbol>
+    <Name>Consolidated-Tomoka Land Co.</Name>
+    <LastSale>62.49</LastSale>
+    <MarketCap>$348.8M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Real Estate</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cto</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MCF</Symbol>
+    <Name>Contango Oil &amp; Gas Company</Name>
+    <LastSale>4.27</LastSale>
+    <MarketCap>$108.93M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mcf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CUO</Symbol>
+    <Name>Continental Materials Corporation</Name>
+    <LastSale>18.9</LastSale>
+    <MarketCap>$31.79M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Building Materials</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cuo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CMT</Symbol>
+    <Name>Core Molding Technologies Inc</Name>
+    <LastSale>22.32</LastSale>
+    <MarketCap>$175.26M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Plastic Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cmt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CVRS</Symbol>
+    <Name>Corindus Vascular Robotics, Inc.</Name>
+    <LastSale>1.08</LastSale>
+    <MarketCap>$203.8M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cvrs</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CRMD</Symbol>
+    <Name>CorMedix Inc</Name>
+    <LastSale>0.5511</LastSale>
+    <MarketCap>$36.94M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/crmd</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CRF</Symbol>
+    <Name>Cornerstone Strategic Return Fund, Inc. (The)</Name>
+    <LastSale>15.0103</LastSale>
+    <MarketCap>$331.1M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/crf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CLM</Symbol>
+    <Name>Cornerstone Strategic Value Fund, Inc.</Name>
+    <LastSale>15.22</LastSale>
+    <MarketCap>$663.28M</MarketCap>
+    <IPOyear>1987</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/clm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CVU</Symbol>
+    <Name>CPI Aerostructures, Inc.</Name>
+    <LastSale>8.9816</LastSale>
+    <MarketCap>$79.59M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Military/Government/Technical</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cvu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CIK</Symbol>
+    <Name>Credit Suisse Asset Management Income Fund, Inc.</Name>
+    <LastSale>3.28</LastSale>
+    <MarketCap>$171.52M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cik</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DHY</Symbol>
+    <Name>Credit Suisse High Yield Bond Fund</Name>
+    <LastSale>2.81</LastSale>
+    <MarketCap>$281.13M</MarketCap>
+    <IPOyear>1998</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dhy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CRHM</Symbol>
+    <Name>CRH Medical Corporation</Name>
+    <LastSale>2.45</LastSale>
+    <MarketCap>$181.61M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/crhm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CRVP</Symbol>
+    <Name>Crystal Rock Holdings, Inc.</Name>
+    <LastSale>0.792</LastSale>
+    <MarketCap>$16.92M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Food Distributors</Industry>
+    <Summary>http://www.nasdaq.com/symbol/crvp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CTEK</Symbol>
+    <Name>CynergisTek, Inc.</Name>
+    <LastSale>3.77</LastSale>
+    <MarketCap>$35.82M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Miscellaneous</Sector>
+    <Industry>Business Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ctek</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DXR</Symbol>
+    <Name>Daxor Corporation</Name>
+    <LastSale>4.8241</LastSale>
+    <MarketCap>$18.29M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dxr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VCF</Symbol>
+    <Name>Delaware Investments Colorado Municipal Income Fund, Inc</Name>
+    <LastSale>15.38</LastSale>
+    <MarketCap>$74.39M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vcf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VFL</Symbol>
+    <Name>Delaware Investments Florida Insured Municipal Income Fund</Name>
+    <LastSale>13.04</LastSale>
+    <MarketCap>$59.05M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vfl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VMM</Symbol>
+    <Name>Delaware Investments Minnesota Municipal Income Fund II, Inc.</Name>
+    <LastSale>13.33</LastSale>
+    <MarketCap>$153.36M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vmm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DLA</Symbol>
+    <Name>Delta Apparel, Inc.</Name>
+    <LastSale>20.79</LastSale>
+    <MarketCap>$150.62M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Apparel</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dla</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DNN</Symbol>
+    <Name>Denison Mine Corp</Name>
+    <LastSale>0.575</LastSale>
+    <MarketCap>$321.47M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dnn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DGSE</Symbol>
+    <Name>DGSE Companies, Inc.</Name>
+    <LastSale>0.94</LastSale>
+    <MarketCap>$25.33M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Consumer Specialties</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dgse</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DPW</Symbol>
+    <Name>Digital Power Corporation</Name>
+    <LastSale>5.36</LastSale>
+    <MarketCap>$107.44M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dpw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DSS</Symbol>
+    <Name>Document Security Systems, Inc.</Name>
+    <LastSale>2.2</LastSale>
+    <MarketCap>$36.17M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Durables</Sector>
+    <Industry>Containers/Packaging</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dss</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>DMF</Symbol>
+    <Name>Dreyfus Municipal Income, Inc.</Name>
+    <LastSale>8.89</LastSale>
+    <MarketCap>$184.43M</MarketCap>
+    <IPOyear>1988</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/dmf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GRF</Symbol>
+    <Name>Eagle Capital Growth Fund, Inc.</Name>
+    <LastSale>7.9852</LastSale>
+    <MarketCap>$28.66M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/grf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVM</Symbol>
+    <Name>Eaton Vance California Municipal Bond Fund</Name>
+    <LastSale>11.66</LastSale>
+    <MarketCap>$249.46M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EIA</Symbol>
+    <Name>Eaton Vance California Municipal Bond Fund II</Name>
+    <LastSale>11.8</LastSale>
+    <MarketCap>$45.86M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eia</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CEV</Symbol>
+    <Name>Eaton Vance California Municipal Income Trust</Name>
+    <LastSale>12.12</LastSale>
+    <MarketCap>$87.93M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cev</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVV</Symbol>
+    <Name>Eaton Vance Limited Duration Income Fund</Name>
+    <LastSale>13.5</LastSale>
+    <MarketCap>$1.57B</MarketCap>
+    <IPOyear>2003</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MAB</Symbol>
+    <Name>Eaton Vance Massachusetts Municipal Bond Fund</Name>
+    <LastSale>13.2</LastSale>
+    <MarketCap>$23.34M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mab</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MMV</Symbol>
+    <Name>Eaton Vance Massachusetts Municipal Income Trust</Name>
+    <LastSale>13.005</LastSale>
+    <MarketCap>$35.59M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mmv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MIW</Symbol>
+    <Name>Eaton Vance Michigan Municipal Bond Fund</Name>
+    <LastSale>13.36</LastSale>
+    <MarketCap>$20.04M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/miw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EMI</Symbol>
+    <Name>Eaton Vance Michigan Municipal Income Trust</Name>
+    <LastSale>12.8484</LastSale>
+    <MarketCap>$25.86M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/emi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EIM</Symbol>
+    <Name>Eaton Vance Municipal Bond Fund</Name>
+    <LastSale>12.44</LastSale>
+    <MarketCap>$848.01M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eim</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EIV</Symbol>
+    <Name>Eaton Vance Municipal Bond Fund II</Name>
+    <LastSale>12.19</LastSale>
+    <MarketCap>$122.06M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eiv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EMJ</Symbol>
+    <Name>Eaton Vance New Jersey Municipal Bond Fund</Name>
+    <LastSale>12.48</LastSale>
+    <MarketCap>$32.19M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/emj</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVJ</Symbol>
+    <Name>Eaton Vance New Jersey Municipal Income Trust</Name>
+    <LastSale>11.62</LastSale>
+    <MarketCap>$53.43M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evj</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ENX</Symbol>
+    <Name>Eaton Vance New York Municipal Bond Fund</Name>
+    <LastSale>12.31</LastSale>
+    <MarketCap>$192.8M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/enx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NYH</Symbol>
+    <Name>Eaton Vance New York Municipal Bond Fund II</Name>
+    <LastSale>11.44</LastSale>
+    <MarketCap>$29.25M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nyh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVY</Symbol>
+    <Name>Eaton Vance New York Municipal Income Trust</Name>
+    <LastSale>12.54</LastSale>
+    <MarketCap>$68.67M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EIO</Symbol>
+    <Name>Eaton Vance Ohio Municipal Bond Fund</Name>
+    <LastSale>12.82</LastSale>
+    <MarketCap>$32.54M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eio</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVO</Symbol>
+    <Name>Eaton Vance Ohio Municipal Income Trust</Name>
+    <LastSale>13.13</LastSale>
+    <MarketCap>$37.51M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EIP</Symbol>
+    <Name>Eaton Vance Pennsylvania Municipal Bond Fund</Name>
+    <LastSale>12.65</LastSale>
+    <MarketCap>$37.44M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eip</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVP</Symbol>
+    <Name>Eaton Vance Pennsylvania Municipal Income Trust</Name>
+    <LastSale>12.18</LastSale>
+    <MarketCap>$31.68M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ELMD</Symbol>
+    <Name>Electromed, Inc.</Name>
+    <LastSale>6.11</LastSale>
+    <MarketCap>$50.47M</MarketCap>
+    <IPOyear>2011</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</Industry>
+    <Summary>http://www.nasdaq.com/symbol/elmd</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ELLO</Symbol>
+    <Name>Ellomay Capital Ltd.</Name>
+    <LastSale>9.5</LastSale>
+    <MarketCap>$101.44M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Electric Utilities: Central</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ello</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ECF</Symbol>
+    <Name>Ellsworth Growth and Income Fund Ltd.</Name>
+    <LastSale>9.3757</LastSale>
+    <MarketCap>$120.73M</MarketCap>
+    <IPOyear>1986</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ecf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ECF^A</Symbol>
+    <Name>Ellsworth Growth and Income Fund Ltd.</Name>
+    <LastSale>25.1543</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ecf^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EMAN</Symbol>
+    <Name>eMagin Corporation</Name>
+    <LastSale>1.75</LastSale>
+    <MarketCap>$61.2M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Semiconductors</Industry>
+    <Summary>http://www.nasdaq.com/symbol/eman</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MSN</Symbol>
+    <Name>Emerson Radio Corporation</Name>
+    <LastSale>1.45</LastSale>
+    <MarketCap>$35.51M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Consumer Electronics/Appliances</Industry>
+    <Summary>http://www.nasdaq.com/symbol/msn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EMX</Symbol>
+    <Name>EMX Royalty Corporation</Name>
+    <LastSale>0.794</LastSale>
+    <MarketCap>$63.3M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/emx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UUUU</Symbol>
+    <Name>Energy Fuels Inc</Name>
+    <LastSale>1.85</LastSale>
+    <MarketCap>$133.25M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Mining &amp; Quarrying of Nonmetallic Minerals (No Fuels)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uuuu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UUUU.WS</Symbol>
+    <Name>Energy Fuels Inc</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uuuu.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ENRJ</Symbol>
+    <Name>EnerJex Resources, Inc.</Name>
+    <LastSale>0.224</LastSale>
+    <MarketCap>$3.43M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/enrj</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ENSV</Symbol>
+    <Name>ENSERVCO Corporation</Name>
+    <LastSale>0.6163</LastSale>
+    <MarketCap>$31.54M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oilfield Services/Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ensv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ESNC</Symbol>
+    <Name>EnSync, Inc.</Name>
+    <LastSale>0.3905</LastSale>
+    <MarketCap>$21.8M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Electric Utilities: Central</Industry>
+    <Summary>http://www.nasdaq.com/symbol/esnc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EGI</Symbol>
+    <Name>Entree Resources Ltd.</Name>
+    <LastSale>0.5472</LastSale>
+    <MarketCap>$94.98M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/egi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVI</Symbol>
+    <Name>EnviroStarm, Inc.</Name>
+    <LastSale>37</LastSale>
+    <MarketCap>$399.82M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Other Consumer Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ERN</Symbol>
+    <Name>Erin Energy Corp.</Name>
+    <LastSale>2.65</LastSale>
+    <MarketCap>$569.63M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ern</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ESP</Symbol>
+    <Name>Espey Mfg. &amp; Electronics Corp.</Name>
+    <LastSale>22.8314</LastSale>
+    <MarketCap>$54.07M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/esp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EVBN</Symbol>
+    <Name>Evans Bancorp, Inc.</Name>
+    <LastSale>42.4</LastSale>
+    <MarketCap>$202.64M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/evbn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EPM</Symbol>
+    <Name>Evolution Petroleum Corporation, Inc.</Name>
+    <LastSale>7</LastSale>
+    <MarketCap>$231.45M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/epm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FEN</Symbol>
+    <Name>First Trust Energy Income and Growth Fund</Name>
+    <LastSale>23.74</LastSale>
+    <MarketCap>$460.49M</MarketCap>
+    <IPOyear>2004</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/fen</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BDL</Symbol>
+    <Name>Flanigan&amp;#39;s Enterprises, Inc.</Name>
+    <LastSale>22.9</LastSale>
+    <MarketCap>$42.56M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Restaurants</Industry>
+    <Summary>http://www.nasdaq.com/symbol/bdl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FSI</Symbol>
+    <Name>Flexible Solutions International Inc.</Name>
+    <LastSale>1.73</LastSale>
+    <MarketCap>$19.93M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Major Chemicals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/fsi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FTF</Symbol>
+    <Name>Franklin Limited Duration Income Trust</Name>
+    <LastSale>11.74</LastSale>
+    <MarketCap>$265.37M</MarketCap>
+    <IPOyear>2003</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ftf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FSP</Symbol>
+    <Name>Franklin Street Properties Corp.</Name>
+    <LastSale>10.38</LastSale>
+    <MarketCap>$1.11B</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/fsp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FRD</Symbol>
+    <Name>Friedman Industries Inc.</Name>
+    <LastSale>5.37</LastSale>
+    <MarketCap>$37.64M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Steel/Iron Ore</Industry>
+    <Summary>http://www.nasdaq.com/symbol/frd</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>FTNW</Symbol>
+    <Name>FTE Networks, Inc.</Name>
+    <LastSale>10.892</LastSale>
+    <MarketCap>$60.97M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Telecommunications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ftnw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GGN</Symbol>
+    <Name>GAMCO Global Gold, Natural Reources &amp; Income Trust </Name>
+    <LastSale>5.17</LastSale>
+    <MarketCap>$699.57M</MarketCap>
+    <IPOyear>2005</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ggn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GGN^B</Symbol>
+    <Name>GAMCO Global Gold, Natural Reources &amp; Income Trust </Name>
+    <LastSale>24.85</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ggn^b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GST</Symbol>
+    <Name>Gastar Exploration Inc.</Name>
+    <LastSale>0.98</LastSale>
+    <MarketCap>$214.56M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gst</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GST^A</Symbol>
+    <Name>Gastar Exploration Inc.</Name>
+    <LastSale>17.3</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gst^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GST^B</Symbol>
+    <Name>Gastar Exploration Inc.</Name>
+    <LastSale>18.05</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gst^b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>JOB</Symbol>
+    <Name>GEE Group Inc.</Name>
+    <LastSale>2.57</LastSale>
+    <MarketCap>$25.39M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Diversified Commercial Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/job</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GMO</Symbol>
+    <Name>General Moly, Inc</Name>
+    <LastSale>0.315</LastSale>
+    <MarketCap>$35.02M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gmo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GSB</Symbol>
+    <Name>GlobalSCAPE, Inc.</Name>
+    <LastSale>3.4535</LastSale>
+    <MarketCap>$74.5M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gsb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GSAT</Symbol>
+    <Name>Globalstar, Inc.</Name>
+    <LastSale>1.25</LastSale>
+    <MarketCap>$1.57B</MarketCap>
+    <IPOyear>2006</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Telecommunications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gsat</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLOW</Symbol>
+    <Name>Glowpoint, Inc.</Name>
+    <LastSale>0.3105</LastSale>
+    <MarketCap>$11.22M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Telecommunications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glow</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GORO</Symbol>
+    <Name>Gold Resource Corporation</Name>
+    <LastSale>4.09</LastSale>
+    <MarketCap>$232.69M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/goro</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GSV</Symbol>
+    <Name>Gold Standard Ventures Corporation</Name>
+    <LastSale>1.72</LastSale>
+    <MarketCap>$401.68M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Mining &amp; Quarrying of Nonmetallic Minerals (No Fuels)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gsv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>AUMN</Symbol>
+    <Name>Golden Minerals Company</Name>
+    <LastSale>0.4157</LastSale>
+    <MarketCap>$38.25M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/aumn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GSS</Symbol>
+    <Name>Golden Star Resources, Ltd</Name>
+    <LastSale>0.8086</LastSale>
+    <MarketCap>$307.74M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gss</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GV</Symbol>
+    <Name>Goldfield Corporation (The)</Name>
+    <LastSale>4.8</LastSale>
+    <MarketCap>$122.17M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Water Supply</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GDP</Symbol>
+    <Name>Goodrich Petroleum Corporation</Name>
+    <LastSale>10.58</LastSale>
+    <MarketCap>$111.5M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gdp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GTE</Symbol>
+    <Name>Gran Tierra Energy Inc.</Name>
+    <LastSale>2.61</LastSale>
+    <MarketCap>$1.01B</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gte</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GPL</Symbol>
+    <Name>Great Panther Silver Limited</Name>
+    <LastSale>1.31</LastSale>
+    <MarketCap>$220.55M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gpl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SIM</Symbol>
+    <Name>Grupo Simec, S.A. de C.V.</Name>
+    <LastSale>9.58</LastSale>
+    <MarketCap>$1.59B</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Steel/Iron Ore</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sim</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GVP</Symbol>
+    <Name>GSE Systems, Inc.</Name>
+    <LastSale>3.2069</LastSale>
+    <MarketCap>$62.21M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gvp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLF</Symbol>
+    <Name>GulfMark Offshore, Inc.</Name>
+    <LastSale>28.5</LastSale>
+    <MarketCap>$808.61M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Energy</Sector>
+    <Industry>Metal Fabrications</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLF.WS</Symbol>
+    <Name>GulfMark Offshore, Inc.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glf.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HEB</Symbol>
+    <Name>Hemispherx BioPharma, Inc.</Name>
+    <LastSale>0.3365</LastSale>
+    <MarketCap>$10.72M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/heb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HCAC</Symbol>
+    <Name>Hennessy Capital Acquisition Corp. III</Name>
+    <LastSale>9.8</LastSale>
+    <MarketCap>$314.4M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Finance</Sector>
+    <Industry>Business Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hcac</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HCAC.U</Symbol>
+    <Name>Hennessy Capital Acquisition Corp. III</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hcac.u</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HCAC.WS</Symbol>
+    <Name>Hennessy Capital Acquisition Corp. III</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hcac.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HLM^</Symbol>
+    <Name>Hillman Group Capital Trust</Name>
+    <LastSale>34.2431</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hlm^</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HMG</Symbol>
+    <Name>HMG/Courtland Properties, Inc.</Name>
+    <LastSale>14</LastSale>
+    <MarketCap>$14.03M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hmg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HUSA</Symbol>
+    <Name>Houston American Energy Corporation</Name>
+    <LastSale>0.309</LastSale>
+    <MarketCap>$17.83M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/husa</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IBIO</Symbol>
+    <Name>iBio, Inc.</Name>
+    <LastSale>0.155</LastSale>
+    <MarketCap>$17.87M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ibio</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IBO</Symbol>
+    <Name>IBO (Listing Market - NYSE Amex Network B F)</Name>
+    <LastSale>23.8</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ibo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IEC</Symbol>
+    <Name>IEC Electronics Corp.</Name>
+    <LastSale>4.1687</LastSale>
+    <MarketCap>$43.04M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Electrical Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/iec</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IMUC</Symbol>
+    <Name>ImmunoCellular Therapeutics, Ltd.</Name>
+    <LastSale>0.2951</LastSale>
+    <MarketCap>$10.39M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/imuc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IMUC.WS</Symbol>
+    <Name>ImmunoCellular Therapeutics, Ltd.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/imuc.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IMH</Symbol>
+    <Name>Impac Mortgage Holdings, Inc.</Name>
+    <LastSale>10.03</LastSale>
+    <MarketCap>$210.13M</MarketCap>
+    <IPOyear>1997</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/imh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IMO</Symbol>
+    <Name>Imperial Oil Limited</Name>
+    <LastSale>29.7</LastSale>
+    <MarketCap>$24.77B</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Integrated oil Companies</Industry>
+    <Summary>http://www.nasdaq.com/symbol/imo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IOR</Symbol>
+    <Name>Income Opportunity Realty Investors, Inc.</Name>
+    <LastSale>11.104</LastSale>
+    <MarketCap>$46.28M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ior</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IGC</Symbol>
+    <Name>India Globalization Capital Inc.</Name>
+    <LastSale>0.7119</LastSale>
+    <MarketCap>$20M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Electronic Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/igc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>INFU</Symbol>
+    <Name>InfuSystems Holdings, Inc.</Name>
+    <LastSale>2.4</LastSale>
+    <MarketCap>$54.67M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/infu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IHT</Symbol>
+    <Name>InnSuites Hospitality Trust</Name>
+    <LastSale>1.79</LastSale>
+    <MarketCap>$17.45M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/iht</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NSPR</Symbol>
+    <Name>InspireMD, Inc.</Name>
+    <LastSale>0.1298</LastSale>
+    <MarketCap>$969072.39</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nspr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NSPR.WS</Symbol>
+    <Name>InspireMD, Inc.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nspr.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NSPR.WS.B</Symbol>
+    <Name>InspireMD, Inc.</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nspr.ws.b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IDN</Symbol>
+    <Name>Intellicheck, Inc.</Name>
+    <LastSale>2.62</LastSale>
+    <MarketCap>$39.27M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/idn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>INS</Symbol>
+    <Name>Intelligent Systems Corporation</Name>
+    <LastSale>4.45</LastSale>
+    <MarketCap>$39.06M</MarketCap>
+    <IPOyear>1992</IPOyear>
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ins</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>THM</Symbol>
+    <Name>International Tower Hill Mines Ltd</Name>
+    <LastSale>0.4191</LastSale>
+    <MarketCap>$68.06M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/thm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>INTT</Symbol>
+    <Name>inTest Corporation</Name>
+    <LastSale>8.85</LastSale>
+    <MarketCap>$92.16M</MarketCap>
+    <IPOyear>1997</IPOyear>
+    <Sector>Capital Goods</Sector>
+    <Industry>Electrical Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/intt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>INUV</Symbol>
+    <Name>Inuvo, Inc</Name>
+    <LastSale>0.83</LastSale>
+    <MarketCap>$23.64M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Advertising</Industry>
+    <Summary>http://www.nasdaq.com/symbol/inuv</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VKI</Symbol>
+    <Name>Invesco Advantage Municipal Income Trust II</Name>
+    <LastSale>11.23</LastSale>
+    <MarketCap>$498.52M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vki</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ISR</Symbol>
+    <Name>IsoRay, Inc.</Name>
+    <LastSale>0.4154</LastSale>
+    <MarketCap>$22.85M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/isr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ISDR</Symbol>
+    <Name>Issuer Direct Corporation</Name>
+    <LastSale>18.4</LastSale>
+    <MarketCap>$54.85M</MarketCap>
+    <IPOyear />
+    <Sector>Miscellaneous</Sector>
+    <Industry>Publishing</Industry>
+    <Summary>http://www.nasdaq.com/symbol/isdr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>JRJR</Symbol>
+    <Name>JRjr33, Inc.</Name>
+    <LastSale>0.2098</LastSale>
+    <MarketCap>$9.41M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Other Consumer Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/jrjr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>KIQ</Symbol>
+    <Name>Kelso Technologies Inc</Name>
+    <LastSale>0.47</LastSale>
+    <MarketCap>$22.05M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Railroads</Industry>
+    <Summary>http://www.nasdaq.com/symbol/kiq</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>KLDX</Symbol>
+    <Name>Klondex Mines Ltd.</Name>
+    <LastSale>2.44</LastSale>
+    <MarketCap>$438.24M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/kldx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LTS</Symbol>
+    <Name>Ladenburg Thalmann Financial Services Inc</Name>
+    <LastSale>3.18</LastSale>
+    <MarketCap>$630.89M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Investment Bankers/Brokers/Service</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lts</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LTS^A</Symbol>
+    <Name>Ladenburg Thalmann Financial Services Inc</Name>
+    <LastSale>25.15</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lts^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LTSL</Symbol>
+    <Name>Ladenburg Thalmann Financial Services Inc</Name>
+    <LastSale>24.78</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Finance</Sector>
+    <Industry>Investment Bankers/Brokers/Service</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ltsl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LAQ</Symbol>
+    <Name>Latin America Equity Fund, Inc. (The)</Name>
+    <LastSale>26.35</LastSale>
+    <MarketCap>$196.27M</MarketCap>
+    <IPOyear>1991</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/laq</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LEVB</Symbol>
+    <Name>Level Brands, Inc.</Name>
+    <LastSale>4.12</LastSale>
+    <MarketCap>$30.87M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Package Goods/Cosmetics</Industry>
+    <Summary>http://www.nasdaq.com/symbol/levb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LGL</Symbol>
+    <Name>LGL Group, Inc. (The)</Name>
+    <LastSale>5.7</LastSale>
+    <MarketCap>$15.25M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lgl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LBY</Symbol>
+    <Name>Libbey, Inc.</Name>
+    <LastSale>6.74</LastSale>
+    <MarketCap>$148.39M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lby</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LLEX</Symbol>
+    <Name>Lilis Energy, Inc.</Name>
+    <LastSale>4.87</LastSale>
+    <MarketCap>$259.57M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/llex</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LIQT</Symbol>
+    <Name>LiqTech International, Inc.</Name>
+    <LastSale>0.4649</LastSale>
+    <MarketCap>$20.56M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/liqt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MAG</Symbol>
+    <Name>MAG Silver Corporation</Name>
+    <LastSale>12.35</LastSale>
+    <MarketCap>$1.05B</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mag</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MJCO</Symbol>
+    <Name>Majesco</Name>
+    <LastSale>5.29</LastSale>
+    <MarketCap>$193.28M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mjco</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MHH</Symbol>
+    <Name>Mastech Digital, Inc</Name>
+    <LastSale>9.558</LastSale>
+    <MarketCap>$52.14M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Professional Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mhh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MTNB</Symbol>
+    <Name>Matinas Biopharma Holdings, Inc.</Name>
+    <LastSale>1.42</LastSale>
+    <MarketCap>$131.99M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mtnb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MNI</Symbol>
+    <Name>McClatchy Company (The)</Name>
+    <LastSale>9.09</LastSale>
+    <MarketCap>$69.86M</MarketCap>
+    <IPOyear>1988</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Newspapers/Magazines</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mni</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>IPB</Symbol>
+    <Name>Merrill Lynch &amp; Co., Inc. 6.0518% Index Plus Trust Certificate</Name>
+    <LastSale>27.5</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Finance: Consumer Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ipb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MXC</Symbol>
+    <Name>Mexco Energy Corporation</Name>
+    <LastSale>3.98</LastSale>
+    <MarketCap>$8.11M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mxc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>CCA</Symbol>
+    <Name>MFS California Insured Municipal Trust</Name>
+    <LastSale>11.4001</LastSale>
+    <MarketCap>$31.76M</MarketCap>
+    <IPOyear>1999</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/cca</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MICR</Symbol>
+    <Name>Micron Solutions, Inc.</Name>
+    <LastSale>3.54</LastSale>
+    <MarketCap>$10.03M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Electromedical &amp; Electrotherapeutic Apparatus</Industry>
+    <Summary>http://www.nasdaq.com/symbol/micr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MLSS</Symbol>
+    <Name>Milestone Scientific, Inc.</Name>
+    <LastSale>1.01</LastSale>
+    <MarketCap>$33.32M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Industrial Specialties</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mlss</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MVF</Symbol>
+    <Name>MuniVest Fund, Inc.</Name>
+    <LastSale>9.63</LastSale>
+    <MarketCap>$621.11M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mvf</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MZA</Symbol>
+    <Name>MuniYield Arizona Fund, Inc.</Name>
+    <LastSale>15.7574</LastSale>
+    <MarketCap>$72.87M</MarketCap>
+    <IPOyear>1993</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/mza</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>MYO</Symbol>
+    <Name>Myomo Inc.</Name>
+    <LastSale>3.56</LastSale>
+    <MarketCap>$22.43M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Industrial Specialties</Industry>
+    <Summary>http://www.nasdaq.com/symbol/myo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NNVC</Symbol>
+    <Name>NanoViricides, Inc.</Name>
+    <LastSale>0.9552</LastSale>
+    <MarketCap>$60.5M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Commercial Physical &amp; Biological Resarch</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nnvc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ATEST</Symbol>
+    <Name>NASDAQ TEST STOCK</Name>
+    <LastSale>9.99</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/atest</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ATEST.A</Symbol>
+    <Name>NASDAQ TEST STOCK</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/atest.a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ATEST.B</Symbol>
+    <Name>NASDAQ TEST STOCK</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/atest.b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ATEST.C</Symbol>
+    <Name>NASDAQ TEST STOCK</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/atest.c</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NHC</Symbol>
+    <Name>National HealthCare Corporation</Name>
+    <LastSale>62.49</LastSale>
+    <MarketCap>$949.65M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Hospital/Nursing Management</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nhc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NAVB</Symbol>
+    <Name>Navidea Biopharmaceuticals, Inc.</Name>
+    <LastSale>0.3859</LastSale>
+    <MarketCap>$62.61M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</Industry>
+    <Summary>http://www.nasdaq.com/symbol/navb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NTIP</Symbol>
+    <Name>Network-1 Technologies, Inc.</Name>
+    <LastSale>2.4</LastSale>
+    <MarketCap>$57.91M</MarketCap>
+    <IPOyear />
+    <Sector>Miscellaneous</Sector>
+    <Industry>Multi-Sector Companies</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ntip</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NBW</Symbol>
+    <Name>Neuberger Berman California Intermediate Municipal Fund Inc.</Name>
+    <LastSale>13.61</LastSale>
+    <MarketCap>$75.55M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nbw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NHS</Symbol>
+    <Name>Neuberger Berman High Yield Strategies Fund</Name>
+    <LastSale>11.66</LastSale>
+    <MarketCap>$227.84M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nhs</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NBH</Symbol>
+    <Name>Neuberger Berman Intermediate Municipal Fund Inc.</Name>
+    <LastSale>14.8</LastSale>
+    <MarketCap>$278.22M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nbh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NML</Symbol>
+    <Name>Neuberger Berman MLP Income Fund Inc.</Name>
+    <LastSale>9.02</LastSale>
+    <MarketCap>$511.06M</MarketCap>
+    <IPOyear>2013</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nml</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NBO</Symbol>
+    <Name>Neuberger Berman New York Intermediate Municipal Fund Inc.</Name>
+    <LastSale>12.18</LastSale>
+    <MarketCap>$61.84M</MarketCap>
+    <IPOyear>2002</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nbo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NRO</Symbol>
+    <Name>Neuberger Berman Real Estate Securities Income Fund, Inc.</Name>
+    <LastSale>5.47</LastSale>
+    <MarketCap>$259.39M</MarketCap>
+    <IPOyear>2003</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nro</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UWN</Symbol>
+    <Name>Nevada Gold &amp; Casinos, Inc.</Name>
+    <LastSale>2.5</LastSale>
+    <MarketCap>$42.09M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Services-Misc. Amusement &amp; Recreation</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uwn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NSU</Symbol>
+    <Name>Nevsun Resources Ltd</Name>
+    <LastSale>2.24</LastSale>
+    <MarketCap>$676.96M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nsu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GBR</Symbol>
+    <Name>New Concept Energy, Inc</Name>
+    <LastSale>1.3201</LastSale>
+    <MarketCap>$2.69M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/gbr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NEN</Symbol>
+    <Name>New England Realty Associates Limited Partnership</Name>
+    <LastSale>72</LastSale>
+    <MarketCap>$268.67M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Building operators</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nen</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NGD</Symbol>
+    <Name>New Gold Inc.</Name>
+    <LastSale>3.17</LastSale>
+    <MarketCap>$1.83B</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ngd</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NXE</Symbol>
+    <Name>Nexgen Energy Ltd.</Name>
+    <LastSale>2.66</LastSale>
+    <MarketCap>$902.2M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nxe</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HLTH</Symbol>
+    <Name>Nobilis Health Corp.</Name>
+    <LastSale>1.3</LastSale>
+    <MarketCap>$101.15M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Hospital/Nursing Management</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hlth</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NAK</Symbol>
+    <Name>Northern Dynasty Minerals, Ltd.</Name>
+    <LastSale>1.72</LastSale>
+    <MarketCap>$529.52M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nak</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NOG</Symbol>
+    <Name>Northern Oil and Gas, Inc.</Name>
+    <LastSale>1.58</LastSale>
+    <MarketCap>$105.58M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nog</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NBY</Symbol>
+    <Name>NovaBay Pharmaceuticals, Inc.</Name>
+    <LastSale>3.225</LastSale>
+    <MarketCap>$49.62M</MarketCap>
+    <IPOyear>2007</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nby</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NG</Symbol>
+    <Name>Novagold Resources Inc.</Name>
+    <LastSale>4.03</LastSale>
+    <MarketCap>$1.3B</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ng</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NTN</Symbol>
+    <Name>NTN Buzztime, Inc.</Name>
+    <LastSale>4.07</LastSale>
+    <MarketCap>$10.26M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Broadcasting</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ntn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>NES</Symbol>
+    <Name>Nuverra Environmental Solutions, Inc.</Name>
+    <LastSale>17.29</LastSale>
+    <MarketCap>$202.22M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Energy</Sector>
+    <Industry>Oilfield Services/Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/nes</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>OCX</Symbol>
+    <Name>OncoCyte Corporation</Name>
+    <LastSale>6.1</LastSale>
+    <MarketCap>$191.71M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ocx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>OGEN</Symbol>
+    <Name>Oragenics, Inc.</Name>
+    <LastSale>0.244</LastSale>
+    <MarketCap>$12.02M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ogen</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TIS</Symbol>
+    <Name>Orchids Paper Products Company</Name>
+    <LastSale>12.92</LastSale>
+    <MarketCap>$134.74M</MarketCap>
+    <IPOyear>2005</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Paper</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tis</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ONP</Symbol>
+    <Name>Orient Paper, Inc.</Name>
+    <LastSale>1.32</LastSale>
+    <MarketCap>$28.31M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Durables</Sector>
+    <Industry>Containers/Packaging</Industry>
+    <Summary>http://www.nasdaq.com/symbol/onp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ORM</Symbol>
+    <Name>Owens Realty Mortgage, Inc.</Name>
+    <LastSale>16.01</LastSale>
+    <MarketCap>$160.77M</MarketCap>
+    <IPOyear>2013</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/orm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^A</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>30.58</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^B</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>27.8521</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^C</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>26.39</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^c</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^D</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>26.33</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^d</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^E</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>26.65</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^e</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^G</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>25.95</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^g</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^H</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>25.33</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^h</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PCG^I</Symbol>
+    <Name>Pacific Gas &amp; Electric Co.</Name>
+    <LastSale>25.35</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pcg^i</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PTN</Symbol>
+    <Name>Palatin Technologies, Inc.</Name>
+    <LastSale>0.8358</LastSale>
+    <MarketCap>$159.06M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ptn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PARR</Symbol>
+    <Name>Par Pacific Holdings, Inc.</Name>
+    <LastSale>19.96</LastSale>
+    <MarketCap>$913.98M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/parr</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PZG</Symbol>
+    <Name>Paramount Gold Nevada Corp.</Name>
+    <LastSale>1.24</LastSale>
+    <MarketCap>$28.61M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pzg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TEUM</Symbol>
+    <Name>Pareteum Corporation</Name>
+    <LastSale>1.54</LastSale>
+    <MarketCap>$66.1M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>EDP Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/teum</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PRK</Symbol>
+    <Name>Park National Corporation</Name>
+    <LastSale>106.03</LastSale>
+    <MarketCap>$1.62B</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/prk</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>BTU^</Symbol>
+    <Name>Peabody Energy Corporation</Name>
+    <LastSale>67.38</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/btu^</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PED</Symbol>
+    <Name>Pedevco Corp.</Name>
+    <LastSale>0.306</LastSale>
+    <MarketCap>$1.86M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ped</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PFNX</Symbol>
+    <Name>Pfenex Inc.</Name>
+    <LastSale>2.88</LastSale>
+    <MarketCap>$67.82M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pfnx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HNW</Symbol>
+    <Name>Pioneer Diversified High Income Trust</Name>
+    <LastSale>15.64</LastSale>
+    <MarketCap>$130.32M</MarketCap>
+    <IPOyear>2007</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/hnw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PLG</Symbol>
+    <Name>Platinum Group Metals Ltd.</Name>
+    <LastSale>0.2988</LastSale>
+    <MarketCap>$44.36M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/plg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PLYM</Symbol>
+    <Name>Plymouth Industrial REIT, Inc.</Name>
+    <LastSale>18.18</LastSale>
+    <MarketCap>$69.32M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/plym</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PLYM^A</Symbol>
+    <Name>Plymouth Industrial REIT, Inc.</Name>
+    <LastSale>25.04</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/plym^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PLM</Symbol>
+    <Name>Polymet Mining Corp.</Name>
+    <LastSale>0.6962</LastSale>
+    <MarketCap>$222.24M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/plm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PW</Symbol>
+    <Name>Power REIT</Name>
+    <LastSale>6.1101</LastSale>
+    <MarketCap>$11.17M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pw</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PW^A</Symbol>
+    <Name>Power REIT</Name>
+    <LastSale>25.6001</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/pw^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>PLX</Symbol>
+    <Name>Protalix BioTherapeutics, Inc.</Name>
+    <LastSale>0.6149</LastSale>
+    <MarketCap>$85.92M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/plx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RLGT</Symbol>
+    <Name>Radiant Logistics, Inc.</Name>
+    <LastSale>4.57</LastSale>
+    <MarketCap>$224.39M</MarketCap>
+    <IPOyear />
+    <Sector>Transportation</Sector>
+    <Industry>Oil Refining/Marketing</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rlgt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RLGT^A</Symbol>
+    <Name>Radiant Logistics, Inc.</Name>
+    <LastSale>25.99</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rlgt^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UTG</Symbol>
+    <Name>Reaves Utility Income Fund</Name>
+    <LastSale>30.72</LastSale>
+    <MarketCap>$1.49B</MarketCap>
+    <IPOyear>2004</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/utg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>REED</Symbol>
+    <Name>Reeds, Inc.</Name>
+    <LastSale>1.6</LastSale>
+    <MarketCap>$25.46M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Beverages (Production/Distribution)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/reed</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RHE</Symbol>
+    <Name>Regional Health Properties, Inc.</Name>
+    <LastSale>0.21</LastSale>
+    <MarketCap>$4.17M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rhe</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RHE^A</Symbol>
+    <Name>Regional Health Properties, Inc.</Name>
+    <LastSale>7.6985</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rhe^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RWC</Symbol>
+    <Name>RELM Wireless Corporation</Name>
+    <LastSale>3.6</LastSale>
+    <MarketCap>$49.84M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Radio And Television Broadcasting And Communications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rwc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RCG</Symbol>
+    <Name>RENN Fund, Inc.</Name>
+    <LastSale>1.68</LastSale>
+    <MarketCap>$7.5M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rcg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RVP</Symbol>
+    <Name>Retractable Technologies, Inc.</Name>
+    <LastSale>0.6589</LastSale>
+    <MarketCap>$21.52M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rvp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RNN</Symbol>
+    <Name>Rexahn Pharmaceuticals, Inc.</Name>
+    <LastSale>2</LastSale>
+    <MarketCap>$63.45M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rnn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>REI</Symbol>
+    <Name>Ring Energy, Inc.</Name>
+    <LastSale>13.96</LastSale>
+    <MarketCap>$755.88M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rei</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>RIF</Symbol>
+    <Name>RMR Real Estate Income Fund</Name>
+    <LastSale>18.81</LastSale>
+    <MarketCap>$191.9M</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/rif</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SACH</Symbol>
+    <Name>Sachem Capital Corp.</Name>
+    <LastSale>3.91</LastSale>
+    <MarketCap>$60.28M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Real Estate Investment Trusts</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sach</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SGA</Symbol>
+    <Name>Saga Communications, Inc.</Name>
+    <LastSale>41.3</LastSale>
+    <MarketCap>$243.96M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Broadcasting</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sga</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SNMP</Symbol>
+    <Name>Sanchez Midstream Partners LP</Name>
+    <LastSale>10.55</LastSale>
+    <MarketCap>$155.91M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/snmp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SAND          </Symbol>
+    <Name>Sandstorm Gold Ltd</Name>
+    <LastSale>4.85</LastSale>
+    <MarketCap>$884.63M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sand</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SEB</Symbol>
+    <Name>Seaboard Corporation</Name>
+    <LastSale>4251</LastSale>
+    <MarketCap>$4.98B</MarketCap>
+    <IPOyear>1996</IPOyear>
+    <Sector>Finance</Sector>
+    <Industry>Investment Bankers/Brokers/Service</Industry>
+    <Summary>http://www.nasdaq.com/symbol/seb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SENS</Symbol>
+    <Name>Senseonics Holdings, Inc.</Name>
+    <LastSale>2.78</LastSale>
+    <MarketCap>$380.18M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sens</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SVT</Symbol>
+    <Name>Servotronics, Inc.</Name>
+    <LastSale>11.0101</LastSale>
+    <MarketCap>$27.65M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/svt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SMTS</Symbol>
+    <Name>Sierra Metals Inc.</Name>
+    <LastSale>2.31</LastSale>
+    <MarketCap>$375.79M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/smts</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SIF</Symbol>
+    <Name>SIFCO Industries, Inc.</Name>
+    <LastSale>6.545</LastSale>
+    <MarketCap>$36.62M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Aerospace</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sif</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SVM</Symbol>
+    <Name>Silvercorp Metals Inc.</Name>
+    <LastSale>2.6</LastSale>
+    <MarketCap>$437.31M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/svm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SKY</Symbol>
+    <Name>Skyline Corporation</Name>
+    <LastSale>12.25</LastSale>
+    <MarketCap>$102.79M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Homebuilding</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sky</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>XPL</Symbol>
+    <Name>Solitario Zinc Corp.</Name>
+    <LastSale>0.6173</LastSale>
+    <MarketCap>$36.08M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/xpl</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SCE^B</Symbol>
+    <Name>Southern California Edison Company</Name>
+    <LastSale>24.25</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sce^b</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SCE^C</Symbol>
+    <Name>Southern California Edison Company</Name>
+    <LastSale>24.9076</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sce^c</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SCE^D</Symbol>
+    <Name>Southern California Edison Company</Name>
+    <LastSale>25.1</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sce^d</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SCE^E</Symbol>
+    <Name>Southern California Edison Company</Name>
+    <LastSale>25.5</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sce^e</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SGB</Symbol>
+    <Name>Southwest Georgia Financial Corporation</Name>
+    <LastSale>20.999</LastSale>
+    <MarketCap>$53.49M</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sgb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>LOV</Symbol>
+    <Name>Spark Networks, Inc.</Name>
+    <LastSale>12.42</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Consumer Services</Sector>
+    <Industry>Other Consumer Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/lov</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SRCI</Symbol>
+    <Name>SRC Energy Inc.</Name>
+    <LastSale>8.43</LastSale>
+    <MarketCap>$2.03B</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/srci</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SGY.WS</Symbol>
+    <Name>Stone Energy Corporation</Name>
+    <LastSale />
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sgy.ws</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>STRP</Symbol>
+    <Name>Straight Path Communications Inc.</Name>
+    <LastSale>181.35</LastSale>
+    <MarketCap>$2.32B</MarketCap>
+    <IPOyear>2013</IPOyear>
+    <Sector>Public Utilities</Sector>
+    <Industry>Telecommunications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/strp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SSY</Symbol>
+    <Name>SunLink Health Systems, Inc.</Name>
+    <LastSale>1.59</LastSale>
+    <MarketCap>$14.57M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Hospital/Nursing Management</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ssy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SDPI</Symbol>
+    <Name>Superior Drilling Products, Inc.</Name>
+    <LastSale>1.4399</LastSale>
+    <MarketCap>$35.01M</MarketCap>
+    <IPOyear>2014</IPOyear>
+    <Sector>Energy</Sector>
+    <Industry>Metal Fabrications</Industry>
+    <Summary>http://www.nasdaq.com/symbol/sdpi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>SYN</Symbol>
+    <Name>Synthetic Biologics, Inc</Name>
+    <LastSale>0.52</LastSale>
+    <MarketCap>$66.85M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/syn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TKAT</Symbol>
+    <Name>Takung Art Co., Ltd.</Name>
+    <LastSale>2.58</LastSale>
+    <MarketCap>$28.87M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Other Specialty Stores</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tkat</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TRX</Symbol>
+    <Name>Tanzanian Royalty Exploration Corporation</Name>
+    <LastSale>0.26</LastSale>
+    <MarketCap>$31.78M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/trx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TGB</Symbol>
+    <Name>Taseko Mines Limited</Name>
+    <LastSale>2.22</LastSale>
+    <MarketCap>$503.35M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tgb</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TIK</Symbol>
+    <Name>Tel-Instrument Electronics Corp.</Name>
+    <LastSale>3.299</LastSale>
+    <MarketCap>$10.74M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Electrical Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tik</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TGC</Symbol>
+    <Name>Tengasco, Inc.</Name>
+    <LastSale>0.82</LastSale>
+    <MarketCap>$8.71M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tgc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLU</Symbol>
+    <Name>The Gabelli Global Utility and Income Trust</Name>
+    <LastSale>20.88</LastSale>
+    <MarketCap>$85.84M</MarketCap>
+    <IPOyear>2004</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GLU^A</Symbol>
+    <Name>The Gabelli Global Utility and Income Trust</Name>
+    <LastSale>50.39</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/glu^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GGO</Symbol>
+    <Name>The Gabelli Go Anywhere Trust</Name>
+    <LastSale>18.04</LastSale>
+    <MarketCap>$29.05M</MarketCap>
+    <IPOyear>2016</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ggo</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>GGO^A</Symbol>
+    <Name>The Gabelli Go Anywhere Trust</Name>
+    <LastSale>43.5</LastSale>
+    <MarketCap>n/a</MarketCap>
+    <IPOyear />
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ggo^a</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TMP</Symbol>
+    <Name>Tompkins Financial Corporation</Name>
+    <LastSale>83.11</LastSale>
+    <MarketCap>$1.26B</MarketCap>
+    <IPOyear />
+    <Sector>Finance</Sector>
+    <Industry>Major Banks</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tmp</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TAT</Symbol>
+    <Name>Transatlantic Petroleum Ltd</Name>
+    <LastSale>1</LastSale>
+    <MarketCap>$50.32M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tat</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TRXC</Symbol>
+    <Name>TransEnterix, Inc.</Name>
+    <LastSale>2.03</LastSale>
+    <MarketCap>$404.46M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Medical/Dental Instruments</Industry>
+    <Summary>http://www.nasdaq.com/symbol/trxc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TMQ</Symbol>
+    <Name>Trilogy Metals Inc.</Name>
+    <LastSale>1.13</LastSale>
+    <MarketCap>$119.42M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tmq</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TPHS</Symbol>
+    <Name>Trinity Place Holdings Inc.</Name>
+    <LastSale>6.8</LastSale>
+    <MarketCap>$213.87M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Services</Sector>
+    <Industry>Building operators</Industry>
+    <Summary>http://www.nasdaq.com/symbol/tphs</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>TRT</Symbol>
+    <Name>Trio-Tech International</Name>
+    <LastSale>6.8301</LastSale>
+    <MarketCap>$24.13M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/trt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>HTM</Symbol>
+    <Name>U.S. Geothermal Inc.</Name>
+    <LastSale>3.33</LastSale>
+    <MarketCap>$64.19M</MarketCap>
+    <IPOyear />
+    <Sector>Public Utilities</Sector>
+    <Industry>Electric Utilities: Central</Industry>
+    <Summary>http://www.nasdaq.com/symbol/htm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UFAB</Symbol>
+    <Name>Unique Fabricating, Inc.</Name>
+    <LastSale>7.59</LastSale>
+    <MarketCap>$74.06M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Capital Goods</Sector>
+    <Industry>Auto Parts:O.E.M.</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ufab</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UAMY</Symbol>
+    <Name>United States Antimony Corporation</Name>
+    <LastSale>0.291</LastSale>
+    <MarketCap>$19.64M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Metal Fabrications</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uamy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UUU</Symbol>
+    <Name>Universal Security Instruments, Inc.</Name>
+    <LastSale>1.65</LastSale>
+    <MarketCap>$3.82M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Non-Durables</Sector>
+    <Industry>Electronic Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uuu</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UQM</Symbol>
+    <Name>UQM Technologies Inc.</Name>
+    <LastSale>1.37</LastSale>
+    <MarketCap>$74.05M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Industrial Machinery/Components</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uqm</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>URG</Symbol>
+    <Name>Ur Energy Inc</Name>
+    <LastSale>0.718</LastSale>
+    <MarketCap>$104.83M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/urg</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>UEC</Symbol>
+    <Name>Uranium Energy Corp.</Name>
+    <LastSale>1.92</LastSale>
+    <MarketCap>$299.81M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/uec</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VII</Symbol>
+    <Name>Vicon Industries, Inc.</Name>
+    <LastSale>0.394</LastSale>
+    <MarketCap>$6.92M</MarketCap>
+    <IPOyear />
+    <Sector>Consumer Durables</Sector>
+    <Industry>Telecommunications Equipment</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vii</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VHC</Symbol>
+    <Name>VirnetX Holding Corp</Name>
+    <LastSale>3.75</LastSale>
+    <MarketCap>$220.64M</MarketCap>
+    <IPOyear />
+    <Sector>Miscellaneous</Sector>
+    <Industry>Multi-Sector Companies</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vhc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VGZ</Symbol>
+    <Name>Vista Gold Corporation</Name>
+    <LastSale>0.66</LastSale>
+    <MarketCap>$65.61M</MarketCap>
+    <IPOyear />
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vgz</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VNRX</Symbol>
+    <Name>VolitionRX Limited</Name>
+    <LastSale>2.82</LastSale>
+    <MarketCap>$74.78M</MarketCap>
+    <IPOyear>2015</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: In Vitro &amp; In Vivo Diagnostic Substances</Industry>
+    <Summary>http://www.nasdaq.com/symbol/vnrx</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>VISI</Symbol>
+    <Name>Volt Information Sciences, Inc.</Name>
+    <LastSale>3.9</LastSale>
+    <MarketCap>$81.94M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>Professional Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/visi</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>EAD</Symbol>
+    <Name>Wells Fargo Income Opportunities Fund</Name>
+    <LastSale>8.36</LastSale>
+    <MarketCap>$589.54M</MarketCap>
+    <IPOyear>2003</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/ead</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ERC</Symbol>
+    <Name>Wells Fargo Multi-Sector Income Fund</Name>
+    <LastSale>13.01</LastSale>
+    <MarketCap>$454.57M</MarketCap>
+    <IPOyear>2003</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/erc</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ERH</Symbol>
+    <Name>Wells Fargo Utilities and High Income Fund</Name>
+    <LastSale>13.2162</LastSale>
+    <MarketCap>$122.17M</MarketCap>
+    <IPOyear>2004</IPOyear>
+    <Sector>n/a</Sector>
+    <Industry>n/a</Industry>
+    <Summary>http://www.nasdaq.com/symbol/erh</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>WRN</Symbol>
+    <Name>Western Copper and Gold Corporation</Name>
+    <LastSale>0.9412</LastSale>
+    <MarketCap>$90.97M</MarketCap>
+    <IPOyear>2011</IPOyear>
+    <Sector>Basic Industries</Sector>
+    <Industry>Precious Metals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/wrn</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>WYY</Symbol>
+    <Name>WidePoint Corporation</Name>
+    <LastSale>0.65</LastSale>
+    <MarketCap>$53.97M</MarketCap>
+    <IPOyear />
+    <Sector>Technology</Sector>
+    <Industry>EDP Services</Industry>
+    <Summary>http://www.nasdaq.com/symbol/wyy</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>WTT</Symbol>
+    <Name>Wireless Telecom Group,  Inc.</Name>
+    <LastSale>2.22</LastSale>
+    <MarketCap>$50.6M</MarketCap>
+    <IPOyear />
+    <Sector>Capital Goods</Sector>
+    <Industry>Electrical Products</Industry>
+    <Summary>http://www.nasdaq.com/symbol/wtt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>XTNT</Symbol>
+    <Name>Xtant Medical Holdings, Inc.</Name>
+    <LastSale>0.5368</LastSale>
+    <MarketCap>$9.76M</MarketCap>
+    <IPOyear />
+    <Sector>Health Care</Sector>
+    <Industry>Biotechnology: Biological Products (No Diagnostic Substances)</Industry>
+    <Summary>http://www.nasdaq.com/symbol/xtnt</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>YUMA</Symbol>
+    <Name>Yuma Energy, Inc.</Name>
+    <LastSale>1.11</LastSale>
+    <MarketCap>$25.15M</MarketCap>
+    <IPOyear />
+    <Sector>Energy</Sector>
+    <Industry>Oil &amp; Gas Production</Industry>
+    <Summary>http://www.nasdaq.com/symbol/yuma</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ZDGE</Symbol>
+    <Name>Zedge, Inc.</Name>
+    <LastSale>2.75</LastSale>
+    <MarketCap>$27.41M</MarketCap>
+    <IPOyear>2016</IPOyear>
+    <Sector>Technology</Sector>
+    <Industry>Computer Software: Prepackaged Software</Industry>
+    <Summary>http://www.nasdaq.com/symbol/zdge</Summary>
+  </SymbolInfo>
+  <SymbolInfo>
+    <Symbol>ZOM</Symbol>
+    <Name>Zomedica Pharmaceuticals Corp.</Name>
+    <LastSale>2.15</LastSale>
+    <MarketCap>$192.08M</MarketCap>
+    <IPOyear>2017</IPOyear>
+    <Sector>Health Care</Sector>
+    <Industry>Major Pharmaceuticals</Industry>
+    <Summary>http://www.nasdaq.com/symbol/zom</Summary>
+  </SymbolInfo>
+</StockSymbolInfo>

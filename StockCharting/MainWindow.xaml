@@ -1,0 +1,34 @@
+﻿<Window x:Class="StockCharting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StockCharting"
+        xmlns:wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="StockCharting" Height="350" Width="525">
+    <Window.DataContext>
+        <local:DateTimeChartVm></local:DateTimeChartVm>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBox Width="50" Text="{Binding StockSymbol, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,5,0">
+                <TextBox.InputBindings>
+                    <KeyBinding Command="{Binding ChartStockCommand}" Key="Return" />
+                </TextBox.InputBindings>
+            </TextBox>
+            <Button Content="Chart Stock" Width="80" Command="{Binding ChartStockCommand}" Margin="0,0,5,0" />
+            <TextBlock Text="{Binding Status}" VerticalAlignment="Center" />
+        </StackPanel>
+        <wpf:CartesianChart Grid.Row="1" Series="{Binding Series}">
+            <wpf:CartesianChart.AxisX>
+                <wpf:Axis LabelFormatter="{Binding Formatter}"></wpf:Axis>
+            </wpf:CartesianChart.AxisX>
+        </wpf:CartesianChart>
+    </Grid>
+</Window>
+

@@ -1,0 +1,11 @@
+HistoricalStockData/obj/
+HistoricalStockData/packages/
+packages/
+HistoricalStockData/bin/
+StockEvaluator.sln.DotSettings
+StockEvaluator.sln.DotSettings.user
+*.user
+StockCharting/bin/
+StockCharting/obj/
+obj/
+bin/
