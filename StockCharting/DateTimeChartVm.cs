@@ -8,6 +8,7 @@ using System.Windows.Media;
 using HistoricalStockData;
 using LiveCharts;
 using LiveCharts.Configurations;
+using LiveCharts.Geared;
 using LiveCharts.Wpf;
 using StockCharting.Annotations;
 using StockSymbols;
@@ -28,17 +29,16 @@ namespace StockCharting
             //SeriesCollection instance using the type.
             //more info at http://lvcharts.net/App/Index#/examples/v1/wpf/Types%20and%20Configuration
 
-            StockDataSeries = new LineSeries
+            StockDataSeries = new GLineSeries
             {
                 Title = "Intraday",
-                Values = new ChartValues<DateModel>(),
-                Fill = Brushes.Transparent,
-                LineSmoothness = 0
+                Values = new GearedValues<DateModel>(),
+                Fill = Brushes.Transparent
             };
-            StockOpenSeries = new LineSeries
+            StockOpenSeries = new GLineSeries
             {
                 Title = "Open",
-                Values = new ChartValues<DateModel>(),
+                Values = new GearedValues<DateModel>(),
                 Fill = Brushes.Transparent,
             };
 
@@ -57,6 +57,7 @@ namespace StockCharting
             try
             {
                 StockDataSeries.Values.Clear();
+                StockOpenSeries.Values.Clear();
                 var stockInfo = symbolInfo.SymbolInfos.SingleOrDefault(s => s.Symbol != null && s.Symbol.Equals(StockSymbol, StringComparison.InvariantCultureIgnoreCase));
                 if (stockInfo == null)
                 {
